@@ -1,0 +1,17 @@
+main.c:45:6:UserTask_1	1
+main.c:52:6:UserTask_2	1
+main.c:59:6:UserTask_3	1
+main.c:66:6:UserTask_4	1
+main.c:74:6:initializeSystickTimer	1
+main.c:92:29:initializeStackOfSchedulerTask	1
+main.c:101:6:initializeStackOfUserTasks	3
+main.c:140:6:DetermineNextTask	5
+main.c:171:6:enable_processor_faults	1
+main.c:183:6:HardFault_Handler	1
+main.c:188:6:MemManage_Handler	1
+main.c:193:6:BusFault_Handler	1
+main.c:199:6:setPspCurrentVaue	1
+main.c:204:10:getPspOfCurrentTask	1
+main.c:210:30:SysTick_Handler	1
+main.c:237:30:switchSpToPsp	1
+main.c:260:5:main	1
